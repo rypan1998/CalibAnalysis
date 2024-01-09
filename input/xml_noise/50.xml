@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<cameraindex>50</cameraindex>
+<R type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>f</dt>
+  <data>
+    -7.52056539e-01 1.08740710e-01 6.50065601e-01 1.15725398e-02
+    9.88322735e-01 -1.51934922e-01 -6.58996165e-01 -1.06740825e-01
+    -7.44532943e-01</data></R>
+<t type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>1</cols>
+  <dt>f</dt>
+  <data>
+    6.61440985e-03 1.93344995e-01 3.80365992e+00</data></t>
+<RT type_id="opencv-matrix">
+  <rows>4</rows>
+  <cols>4</cols>
+  <dt>f</dt>
+  <data>
+    -7.52056539e-01 1.08740710e-01 6.50065601e-01 6.61440985e-03
+    1.15725398e-02 9.88322735e-01 -1.51934922e-01 1.93344995e-01
+    -6.58996165e-01 -1.06740825e-01 -7.44532943e-01 3.80365992e+00 0. 0.
+    0. 1.</data></RT>
+ <!-- resumed -->
+
+<IntrinsicCam type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>f</dt>
+  <data>
+    4.49868994e+03 0. 960. 0. 4.49868994e+03 540. 0. 0. 1.</data></IntrinsicCam>
+<DistortionCam type_id="opencv-matrix">
+  <rows>1</rows>
+  <cols>5</cols>
+  <dt>f</dt>
+  <data>
+    0. 0. 0. 0. 0.</data></DistortionCam>
+</opencv_storage>
